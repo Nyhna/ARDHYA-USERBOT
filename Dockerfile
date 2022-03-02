@@ -1,5 +1,5 @@
 #Repo Clonning ⚡♥️
-RUN git clone https://github.com/THE-ROYALSBOT/ROYALUSERBOT.git /root/userbot
+RUN git clone https://github.com/Nyhna/ARDHYA-USERBOT.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
