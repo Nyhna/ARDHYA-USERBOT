@@ -1,1 +1,1 @@
-worker: bash ROYAL
+worker: bash ARDHYA
